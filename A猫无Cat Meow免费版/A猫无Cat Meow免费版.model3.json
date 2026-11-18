@@ -1,0 +1,27 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "A猫无Cat Meow免费版.moc3",
+		"Textures": [
+			"A猫无Cat Meow免费版.4096/texture_00.png",
+			"A猫无Cat Meow免费版.4096/texture_01.png",
+			"A猫无Cat Meow免费版.4096/texture_02.png",
+			"A猫无Cat Meow免费版.4096/texture_03.png",
+			"A猫无Cat Meow免费版.4096/texture_04.png"
+		],
+		"Physics": "A猫无Cat Meow免费版.physics3.json",
+		"DisplayInfo": "A猫无Cat Meow免费版.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
